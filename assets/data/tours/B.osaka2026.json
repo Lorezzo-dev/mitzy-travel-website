@@ -1,0 +1,75 @@
+{
+    "title": "Best of Osaka Experience",
+    "folder": "",
+    "details": "<p>Highlights: Arashiyama Bamboo Grove, Togetsu Bridge, Fushimi Inari Shrine, Nara Deer Park, Todai Temple, Osaka Castle (photo stop), and Rinku Premium Outlet. Enjoy a relaxed Japan journey with guided tours, free time, and outlet shopping.</p>",
+    "duration": "5 Days / 4 Nights",
+    "low": "\u20b158,888 / person (Promo Rate, All-in with Airfare)",
+    "flyer": "assets/data/packages/korea_japan/Best of Osaka Experience 2026/Flyer_1764739001.png",
+    "travel_dates": [
+        "\ud83c\udf3b <span style='color:#3ba76a;'>JUN 02 \u2013 06, 2026</span>",
+        "\ud83c\udf41 <span style='color:#d47f3d;'>SEP 15 \u2013 19, 2026</span>",
+        "\ud83c\udf41 <span style='color:#d47f3d;'>OCT 14 \u2013 18, 2026</span>"
+    ],
+    "itinerary": [
+        {
+            "day_title": "Day 1: Manila \u2708 Osaka (D)",
+            "day_details": "Departure from Manila via Cebu Pacific 5J-828 (MNL\u2013KIX 01:25PM\u201306:40PM). Arrival at Kansai International Airport, meet and greet with tour guide. Transfer to Osaka (approx. 1 hr 10 mins). Hotel check-in and dinner."
+        },
+        {
+            "day_title": "Day 2: Osaka \u2013 Kyoto \u2013 Nara \u2013 Osaka (B/L/D)",
+            "day_details": "After breakfast, transfer to Kyoto. Visit Arashiyama Bamboo Grove and Togetsu Bridge, then proceed to Fushimi Inari Shrine. Continue to Nara to visit Nara Deer Park and Todai Temple (photo stop). Return to Osaka for overnight stay.",
+            "day_image": "assets/data/packages/korea_japan/Best of Osaka Experience 2026/Day2_1770015666.png"
+        },
+        {
+            "day_title": "Day 3: Osaka Free Time (B)",
+            "day_details": "Breakfast at hotel. Free time for leisure, shopping, or optional activities around Osaka.",
+            "day_image": "assets/data/packages/korea_japan/Best of Osaka Experience 2026/Day3_1770015669.png"
+        },
+        {
+            "day_title": "Day 4: Osaka Free Time (B)",
+            "day_details": "Breakfast at hotel. Another free day for shopping, food trips, or self-exploration.",
+            "day_image": "assets/data/packages/korea_japan/Best of Osaka Experience 2026/Day4_1770015673.png"
+        },
+        {
+            "day_title": "Day 5: Osaka \u2708 Manila (B)",
+            "day_details": "Hotel check-out. Visit Osaka Castle (photo stop). Transfer to Rinku Premium Outlet (approx. 1 hr) for shopping until 4:00PM. Transfer to Kansai Airport (approx. 20 mins). Departure via Cebu Pacific 5J-827 (KIX\u2013MNL 07:55PM\u201311:35PM). Home sweet home!",
+            "day_image": "assets/data/packages/korea_japan/Best of Osaka Experience 2026/Day5_1770015676.png"
+        }
+    ],
+    "inclusions": [
+        "Roundtrip airfare via Cebu Pacific",
+        "7 kg hand-carry luggage allowance",
+        "4 nights hotel accommodation in Osaka",
+        "Tours as per itinerary",
+        "Meals as per itinerary",
+        "English-speaking tour guide during tours and transfers",
+        "Private coach airport to hotel transfer"
+    ],
+    "exclusions": [
+        "Philippine Travel Tax: \u20b11,620",
+        "Japan visa processing",
+        "Check-in baggage",
+        "Travel insurance"
+    ],
+    "extra_details": [
+        "<strong>Reservation Fee:</strong> \u20b115,000 per person",
+        "<strong>Payment Terms:</strong> Remaining balance payable 45 days before travel period",
+        "<strong>Single Supplement:</strong> Add \u20b125,000",
+        "<strong>Child Policy:</strong> Child with bed (7 y/o & above) same as adult rate; Child no bed (2\u20136 y/o): \u20b132,888",
+        "All terms and conditions apply."
+    ],
+    "images": [
+        "assets/data/packages/korea_japan/Best of Osaka Experience 2026/osakaxp_1770015514.png",
+        "assets/data/packages/korea_japan/Best of Osaka Experience 2026/osaka4_1770015660.png",
+        "assets/data/packages/korea_japan/Best of Osaka Experience 2026/osaka3_1770015660.png",
+        "assets/data/packages/korea_japan/Best of Osaka Experience 2026/osaka2_1770015660.png",
+        "assets/data/packages/korea_japan/Best of Osaka Experience 2026/osaka1_1770015661.png"
+    ],
+    "flight_details": "Cebu Pacific \u2013 5J-828 MNL\u2013KIX 01:25PM\u201306:40PM / 5J-827 KIX\u2013MNL 07:55PM\u201311:35PM",
+    "contact": "Globe: 09568190919 (Flordelyn), 09671379745 (Mikka), 09568772056 (Raquelyn), 09202511738 (Mark), 09612017599 (Chelsea), 09178825004 (Jun) | Smart: 09396163155 (JC), 09995011721 (Crishaya) | Landline: 02-72760923, 02-8524 3835, 02-8425 2690 | Facebook: Mitzy Travel and Tours | Website: mitzytravelandtours.com",
+    "flyers": [
+        "assets/data/packages/korea_japan/Best of Osaka Experience 2026/Flyer_1770015432.png",
+        "assets/data/packages/korea_japan/Best of Osaka Experience 2026/Flyer_1770015435.png"
+    ],
+    "region": "korea_japan"
+}

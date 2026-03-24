@@ -1,0 +1,130 @@
+[
+    {
+        "id": "chongquingchengdu",
+        "title": "The Best of Chongqing + Chengdu China",
+        "subtitle": "<p>5D 4N The Best of Chongqing + Chengdu China</p>",
+        "image": "assets/data/packages/asia/chongquingchengdu/thumbnail.jpg",
+        "link": "tourinfo.php?id=A.chongquingchengdu",
+        "location": "China, Chengdu, Chongqing, Asia"
+    },
+    {
+        "id": "SinMal",
+        "title": "The Best of Singapore and Malaysia Experience",
+        "subtitle": "<p>with City tours &amp; Universal Studio</p>",
+        "image": "assets/data/packages/asia/The Best of Singapore and Malaysia Experience/thumbnail.jpg",
+        "link": "tourinfo.php?id=A.SinMal",
+        "location": "Malaysia, Singapore"
+    },
+    {
+        "id": "avatar2026",
+        "title": "The Best of Avatar Experience Zhangjiajie and Changsha",
+        "subtitle": "<p>6D/5N with city and nature tour + tianmen mountain</p>",
+        "image": "assets/data/packages/asia/The Best of Avatar Experience Zhangjiajie and Changsha/thumbnail.png",
+        "link": "tourinfo.php?id=A.avatar2026",
+        "location": "China, Avatar, Asia"
+    },
+    {
+        "id": "amazingthailand",
+        "title": "Amazing Holidays in Thailand 2026",
+        "subtitle": "<p>4D 3N Pattaya &amp; Bangkok</p>",
+        "image": "assets/data/packages/asia/Amazing Holidays in Thailand 2026/thumbnail.png",
+        "link": "tourinfo.php?id=A.Thailand",
+        "location": "Pattaya, Bangkok, Thailand, Asia"
+    },
+    {
+        "id": "taiwan",
+        "title": "Holidays in Taiwan",
+        "subtitle": "<p>Best selling Taichung-Tapei Tour with Zhongshe Flower Market</p>",
+        "image": "assets/data/packages/asia/taiwan/thumbnail.png",
+        "link": "tourinfo.php?id=A.taiwan",
+        "location": "Taichung, Taipei, Taiwan, Asia"
+    },
+    {
+        "id": "halongbay",
+        "title": "The Best of Hanoi & Halong Bay Experience",
+        "subtitle": "<p>5D/3N with Megaworld &amp; Phu Cau Incense Village</p>",
+        "image": "assets/data/packages/asia/halongbay/thumbnail.png",
+        "link": "tourinfo.php?id=A.halongbay",
+        "location": "Vietnam, Hanoi, Halong Bay, Asia"
+    },
+    {
+        "id": "centralasia",
+        "title": "Premium Holidays in Central Asia",
+        "subtitle": "<p>8D / 6N Kazakhstan, Kyrgyzstan, Uzbekistan</p>",
+        "image": "assets/data/packages/asia/Central Asia/thumbnail.jpg",
+        "link": "tourinfo.php?id=A.centralasia",
+        "location": "Kazakhstan, Kyrgyzstan, Uzbekistan, Asia"
+    },
+    {
+        "id": "HanoiSapa",
+        "title": "Holidays in Vietnam Hanoi - Sapa 2026",
+        "subtitle": "<p>With Ninh Bihn, Fansipan, Trang An &amp; Mega World.</p>",
+        "image": "assets/data/packages/asia/HanoiSapa/thumbnail.png",
+        "link": "tourinfo.php?id=A.hanoisapa",
+        "location": "Hanoi, Sa Pa, Vietnam, Asia"
+    },
+    {
+        "id": "ultimatetaiwan",
+        "title": "Ultimate Holidays in Taiwan 2026",
+        "subtitle": "<p>Best of 6 cities (Kaoshiung, Alishan, Chiayi, Sun Moon Lake, Taichung, Taipei</p>",
+        "image": "assets/data/packages/asia/Ultimate Holidays in Taiwan 2026/thumbnail.png",
+        "link": "tourinfo.php?id=A.ultimatetaiwan",
+        "location": "Kaoshiung, Alishan, Chiayi, Sun Moon Lake, Taichung, Taipei, Taiwan, Asia"
+    },
+    {
+        "id": "middle_east_adventure_2026",
+        "title": "Middle East Adventure 2026",
+        "subtitle": "<p>A Holy Journey of a lifetime Egypt-Jordan-Israel</p>",
+        "image": "assets/data/packages/asia/Middle East Adventure 2026/thumbnail.jpg",
+        "link": "tourinfo.php?id=A.middle_east_adventure_2026",
+        "location": "Egypt, Israel, Jordan, Middle East, Holyland, Holy Land"
+    },
+    {
+        "id": "majestic_dubai",
+        "title": "Majestic Dubai",
+        "subtitle": "<p>5D 4N With Abu Dhabi 2025-2026</p>",
+        "image": "assets/data/packages/asia/majestic_dubai/thumbnail.png",
+        "link": "tourinfo.php?id=A.majestic_dubai",
+        "location": "Dubai, United Arab Emirates, UAE, Middle East"
+    },
+    {
+        "id": "shanghai",
+        "title": "Holidays in Shanghai 2025\u201326",
+        "subtitle": "<p>4D 3N with Shanghai Disneyland</p>",
+        "image": "assets/data/packages/asia/shanghai/thumbnail.png",
+        "link": "tourinfo.php?id=A.shanghai",
+        "location": "Shanghai, China, Asia"
+    },
+    {
+        "id": "harbin",
+        "title": "Premium Winter Holidays in Harbin & Beijing 2026",
+        "subtitle": "<p>7D 6N with, Mingdu Ski Resort, the Dejia Wharf &amp; Snow Carnival</p>",
+        "image": "assets/data/packages/asia/harbin/thumbnail.png",
+        "link": "tourinfo.php?id=A.Harbin",
+        "location": "China, Beijing, Harbin"
+    },
+    {
+        "id": "danang",
+        "title": "Holidays in Vietnam Da Nang - Hoi An 2026",
+        "subtitle": "<p>4D 3N with AO DAI Show and Vinwonders Nam Hoi An Theme Park.</p>",
+        "image": "assets/data/packages/asia/danang/thumbnail.png",
+        "link": "tourinfo.php?id=A.DanangHoiAn",
+        "location": "Da Nang, Hoi An, Vietnam, Asia, Indochina"
+    },
+    {
+        "id": "beijing",
+        "title": "Holidays in Beijing 2025-26",
+        "subtitle": "<p>4D 3N With Universal Studios.</p>",
+        "image": "assets/data/packages/asia/Holidays in Beijing 2025-26/thumbnail.png",
+        "link": "tourinfo.php?id=A.beijing",
+        "location": "Beijing, China, Asia"
+    },
+    {
+        "id": "bali",
+        "title": "Ultimate Holidays in Bali 2026",
+        "subtitle": "<p>5D 4N Fully loaded + Fully boarded meals Higlights: Lempuyang Temple Virgin Beach, Wanagiri Hidden Hills, Tegalalang Rice Terraces</p>",
+        "image": "assets/data/packages/asia/bali/thumbnail.png",
+        "link": "tourinfo.php?id=A.bali",
+        "location": "Bali, Indonesia, Asia"
+    }
+]

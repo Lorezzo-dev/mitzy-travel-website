@@ -1,0 +1,417 @@
+/* =====================================================
+   MOBILE FIX: HOME HERO TEXT CONTAINER
+   ===================================================== */
+@media (max-width: 768px) {
+  .flyer-thumb,
+  .flyer-canvas {
+    pointer-events: none;
+  }
+}
+
+
+@media (max-width: 768px) {
+
+  .home-page .hero-carousel {
+    position: relative;
+    min-height: 60vh;
+  }
+
+  .home-page .hero-text {
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translate(-50%, -50%);
+
+    width: 90%;
+    max-width: 360px;
+
+    padding: 18px 16px;
+    border-radius: 18px;
+
+    background: rgba(255, 255, 255, 0.88);
+    backdrop-filter: blur(4px);
+
+    text-align: center;
+  }
+
+  .home-page .hero-text h1 {
+    font-size: 22px;
+    line-height: 1.3;
+    margin-bottom: 8px;
+  }
+
+  .home-page .hero-text p {
+    font-size: 14px;
+    line-height: 1.4;
+    margin: 0;
+  }
+
+}
+
+/* =====================================================
+   HOME: FEATURED TOUR PACKAGES (MOBILE)
+   ===================================================== */
+
+@media (max-width: 768px) {
+
+  .tour-packages {
+    padding: 32px 16px;
+  }
+
+  .tour-packages h2 {
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .tour-packages .carousel {
+    overflow: hidden;
+  }
+
+  .tour-packages .carousel-track {
+    display: flex;
+    gap: 14px;
+    padding-right: 16px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .tour-packages .carousel-track a {
+    flex: 0 0 85%;
+    max-width: 85%;
+  }
+
+  .tour-packages .carousel-track img {
+    width: 100%;
+    height: auto;
+    border-radius: 16px;
+    display: block;
+  }
+
+  /* Hide arrows on mobile */
+  .tour-packages .prev,
+  .tour-packages .next {
+    display: none;
+  }
+}
+
+
+/* =====================================================
+   HOME: WHY CHOOSE MITZY (MOBILE)
+   ===================================================== */
+
+@media (max-width: 768px) {
+
+  .why-choose {
+    padding: 40px 16px;
+  }
+
+  .why-choose .why-title {
+    font-size: 26px;
+    line-height: 1.3;
+    text-align: center;
+    margin-bottom: 28px;
+  }
+
+  .why-choose .why-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .why-choose .why-item {
+    padding: 20px 18px;
+    border-radius: 16px;
+  }
+
+  .why-choose .why-item img {
+    width: 56px;
+    margin-bottom: 12px;
+  }
+
+  .why-choose .why-item h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+
+  .why-choose .why-item p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0;
+  }
+}
+
+
+/* =====================================================
+   MOBILE FIX: TOUR GRID (JS-INJECTED CARDS)
+   ===================================================== */
+
+@media (max-width: 768px) {
+
+  .tours-section {
+    padding: 32px 16px;
+  }
+
+  .tours-section .section-title {
+    font-size: 26px;
+    line-height: 1.3;
+    margin-bottom: 24px;
+    text-align: center;
+  }
+
+  /* 🔑 Target whatever JS inserts */
+  .tours-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .tours-grid > * {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 16px;
+    overflow: hidden;
+  }
+
+  .tours-grid img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 16px;
+  }
+}
+
+
+/* ================= GLOBAL PAGE HERO – MOBILE FIX ================= */
+@media (max-width: 768px) {
+
+  .page-hero {
+    height: 55vh;
+    min-height: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .page-hero img {
+    object-position: center;
+  }
+
+  .page-hero-text {
+    max-width: 90%;
+    padding: 18px 16px;
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.88);
+    text-align: center;
+  }
+
+  .page-hero-text h1 {
+    font-size: 1.9rem;
+    line-height: 1.2;
+    margin-bottom: 6px;
+  }
+
+  .page-hero-text p {
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+}
+
+/* ================= VISA PAGE – REMOVE PINK GAP UNDER HERO (MOBILE) ================= */
+@media (max-width: 768px) {
+
+  /* Remove artificial spacing after hero */
+  .visa-page {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  /* First section inside visa pages should start immediately */
+  .visa-page > section:first-child,
+  .visa-page > .visa-services {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
+
+  /* Safety: prevent min-height causing empty space */
+  .visa-page {
+    min-height: auto !important;
+  }
+}
+
+/* ================= MOBILE NAVIGATION ================= */
+
+.menu-toggle {
+  display: none;
+}
+
+.mobile-nav,
+.mobile-menu-panel,
+.mobile-search-panel {
+  display: none;
+}
+
+@media (max-width: 768px) {
+
+  /* Show hamburger */
+  .menu-toggle {
+    display: block;
+    background: none;
+    border: none;
+    font-size: 28px;
+    cursor: pointer;
+  }
+
+  /* Hide desktop nav completely */
+  .nav-wrapper {
+    display: none !important;
+  }
+  
+
+  /* Stack nav vertically */
+  .main-nav {
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    width: 100%;
+    padding: 15px 0;
+  }
+
+  .main-nav a,
+  .main-nav .dropdown {
+    width: 100%;
+    padding: 12px 20px;
+  }
+
+  .dropdown-content {
+    position: static;
+    box-shadow: none;
+  }
+
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+    /* Show mobile nav icons */
+  .mobile-nav {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 10px;
+  }
+
+  .mobile-icon {
+    background: #f3f3f3;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  /* Slide panels */
+  .mobile-menu-panel,
+  .mobile-search-panel {
+    position: absolute;
+    top: 140px;
+    left: 0;
+    width: 100%;
+    background: #ffffff;
+    padding: 20px;
+    display: none;
+    flex-direction: column;
+    gap: 18px;
+    z-index: 999;
+  }
+
+  .mobile-menu-panel.active,
+  .mobile-search-panel.active {
+    display: flex;
+  }
+
+  .mobile-menu-panel a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #cc5a7c;
+  }
+
+  .mobile-search-panel input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+  }
+  
+    .search-nav {
+    position: absolute;
+    top: 120px; /* adjust if needed */
+    left: 0;
+    width: 100%;
+    padding: 15px;
+    background: #ffffff;
+    z-index: 999;
+  }
+
+  .search-form {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .search-input {
+    flex: 1;
+    padding: 10px 12px;
+    font-size: 16px;
+  }
+
+  .search-form .icon-btn img {
+    width: 22px;
+    height: 22px;
+  }
+  
+    .search-nav img {
+    width: 22px !important;
+    height: auto;
+  }
+  
+  #search-btn {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    flex: 0 0 auto; /* prevents stretching */
+  }
+
+  #search-btn img {
+    width: 22px !important;
+    height: 22px !important;
+    max-width: 22px !important;
+    display: block;
+  }
+  
+    .main-nav .icon-btn img {
+    width: 22px !important;
+    height: 22px !important;
+  }
+
+
+  .visa-page .visa-card,
+  .visa-page .visa-card.visa-europe {
+    width: 100% !important;
+    flex: 1 1 100% !important;
+    max-width: 100% !important;
+  }
+  
+    .mobile-close {
+    align-self: flex-end;
+    background: none;
+    border: none;
+    font-size: 26px;
+    color: var(--pink-dark2);
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+
+
+}
+

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "eastmeetswest",
+        "title": "Dream Holiday in the USA: East meets West",
+        "subtitle": "<p>14D/12N San Fransisco, Fresno, Las Vegas, Los Angeles, New York</p>",
+        "image": "assets/data/packages/europe/eastmeetswest/thumbnail.jpg",
+        "link": "tourinfo.php?id=C.eastmeetswest",
+        "location": "USA, America, San Fransisco, Fresno, Las Vegas, Los Angeles, New York"
+    },
+    {
+        "id": "marian26",
+        "title": "Voyage of Hope and Faith Marian Pilgrimage Experience",
+        "subtitle": "<p>17D 15N Portugal, Spain, Andorra, France, Italy, Vatican City with Papal Audience</p>",
+        "image": "assets/data/packages/europe/Voyage of Hope and Faith Marian Pilgrimage Experience/thumbnail.png",
+        "link": "tourinfo.php?id=C.marian26",
+        "location": "Europe, Spain, Portugal, France, Andorra, Italy, Vatican City"
+    },
+    {
+        "id": "britain2026",
+        "title": "Best of England, Scotland and Wales Experience",
+        "subtitle": "<p>15D/14N with Ireland</p>",
+        "image": "assets/data/packages/europe/britain2026/thumbnail.png",
+        "link": "tourinfo.php?id=C.britain2026",
+        "location": "England, Wales, Scotland, Ireland, Great Britain, Europe"
+    },
+    {
+        "id": "lapland",
+        "title": "Christmas Holiday in Lapland",
+        "subtitle": "The best of arctic adventure + Tromso",
+        "image": "assets/data/packages/europe/Chirstmas Holidays in LAPLAND/LAPLAND.png",
+        "link": "tourinfo.php?id=C.lapland",
+        "location": "Lapland, Europe, Scandinavia, Schengen"
+    },
+    {
+        "id": "balkans",
+        "title": "Balkans 2025-26",
+        "subtitle": "15D 14N Balkans 2025\u201326 with Eastern Europe",
+        "image": "assets/data/packages/europe/Balkans 2025-26/BALKANS.png",
+        "link": "tourinfo.php?id=C.balkans",
+        "location": "Balkans, Europe, Eastern Europe, Hungary, Bosnia & Herzegovina, Croatia, Montenegro, Slovenia, Austria, Schengen"
+    }
+]

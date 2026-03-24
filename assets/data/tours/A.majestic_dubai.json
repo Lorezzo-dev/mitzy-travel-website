@@ -1,0 +1,84 @@
+{
+    "title": "Majestic Dubai",
+    "folder": "",
+    "details": "<p>Highlights: Dubai City Tour, Desert Safari with BBQ Dinner, Marina Dhow Cruise, Dubai Frame, Abra Boat Ride, Abu Dhabi City Tour including Sheikh Zayed Grand Mosque, Ferrari World photo stop, and more.</p>",
+    "duration": "6 Days / 5 Nights",
+    "low": "\u20b153,888",
+    "flyer": "assets/data/packages/asia/Majestic Dubai/Flyer_1764579776.png",
+    "travel_dates": [
+        "\ud83c\udfdd\ufe0f <span style='color:#3ba76a;'>FEB 19 \u2013 24, 2026 \u2013 \u20b158,888</span>",
+        "\ud83c\udfdd\ufe0f <span style='color:#3ba76a;'>FEB 25 \u2013 MAR 02, 2026 \u2013 \u20b158,888 (Chinese New Year)</span>",
+        "\ud83c\udfdd\ufe0f <span style='color:#3ba76a;'>MAR 11 \u2013 16, 2026 \u2013 \u20b153,888</span>",
+        "\ud83c\udfdd\ufe0f <span style='color:#3ba76a;'>MAR 18 \u2013 23, 2026 \u2013 \u20b153,888</span>",
+        "\ud83c\udfdd\ufe0f <span style='color:#3ba76a;'>MAR 30 \u2013 APR 04, 2026 \u2013 \u20b154,888 (Holy Week)</span>",
+        "\ud83c\udfdd\ufe0f <span style='color:#3ba76a;'>MAR 31 \u2013 APR 05, 2026 \u2013 \u20b154,888 (Holy Week)</span>",
+        "\ud83c\udfdd\ufe0f <span style='color:#3ba76a;'>APR 15 \u2013 20, 2026 \u2013 \u20b153,888</span>",
+        "\ud83c\udfdd\ufe0f <span style='color:#3ba76a;'>APR 29 \u2013 MAY 04, 2026 \u2013 \u20b153,888</span>"
+    ],
+    "itinerary": [
+        {
+            "day_title": "Day 1: Manila \u2013 Dubai (D)",
+            "day_details": "Arrival in Dubai. Meet and greet the tour guide outside Dubai International Airport. Transfer to hotel in Dubai for check-in and overnight stay."
+        },
+        {
+            "day_title": "Day 2: Half-Day Dubai City Tour + Afternoon Desert Safari W/ BBQ (B/L/D)",
+            "day_details": "Breakfast at the Hotel, Start Tour with Dubai City Tour Visit Jumeirah Area, Photo Stop Burj Al Arab from Jumeirah Beach, Photo Stop Jumeirah Mosque, Drive to Bastakiya, Cross the, cove in Abra Traditional Boats to reach the Spice & Gold Souk, Transfer to Dubai Frame Entrances Included, 3pm Start the Desert Safari (SIC Basis) Including the BBQ Dinner, Overnight at Hotel in Dubai."
+        },
+        {
+            "day_title": "Day 3: Full-Day Dubai Sightseeing & Marina Dhow Cruise (B/D)",
+            "day_details": "- Breakfast at the Hotel, Start to Explore Abu Dhabi by visiting Sheik Zayed Grand Mosque, Drive along Abu Dhabi Corniche, Pass By Emirates Palace, Pass by Qasr Al Watan, Photoshop Ferrari World, Shopping at Carpet Shop, After the Tour Drive Back to Dubai, Overnight at hotel in Dubai"
+        },
+        {
+            "day_title": "Day 4: Full-Day Abu Dhabi City Tour (B/L/D)",
+            "day_details": "- Breakfast at the Hotel, Visit the Modern Part of Dubai, Photoshop Burj Al Arab, Visit Palm Jumeirah, See the Infamous Atlantis the Palm, Transfer to Dubai Mall for Shopping and watch the Dubai Fountain, Marina Dhow Cruise experience with buffet dinner, Overnight at hotel in Dubai."
+        },
+        {
+            "day_title": "Day 5: Free Time / Optional Activities (B)",
+            "day_details": "Breakfast at the Hotel, Check Out, Free time until transfer to Airport, Airport Check In, Departure Back to Manila"
+        },
+        {
+            "day_title": "Day 6: Departure to Manila (B)",
+            "day_details": "Home Sweet Home!"
+        }
+    ],
+    "inclusions": [
+        "Roundtrip airfare via Cebu Pacific",
+        "7kg hand-carry baggage allowance",
+        "4 nights hotel accommodation in Dubai",
+        "Daily breakfast",
+        "Meals as indicated in the itinerary",
+        "Private bus transportation for tours and transfers",
+        "Entrance to Dubai Frame",
+        "1-way Abra boat ride",
+        "Afternoon Desert Safari Tour with BBQ Dinner (shared jeep)",
+        "Marina Dhow Cruise with buffet dinner",
+        "English-speaking tour guide during tours",
+        "Filipino tour leader",
+        "2 bottles of water per day during tours",
+        "VAT & Tourism Dirham fees",
+        "Tipping included"
+    ],
+    "exclusions": [
+        "Check-in baggage",
+        "Philippine travel tax: \u20b11,620",
+        "Dubai visa: $100",
+        "Travel insurance",
+        "Other expenses not mentioned in the inclusions"
+    ],
+    "extra_details": [
+        "All terms of Conditions Apply"
+    ],
+    "images": [
+        "assets/data/packages/asia/Majestic Dubai/DUBAIposting_1764579636.png",
+        "assets/data/packages/asia/Majestic Holidays in Dubai 2025-26/dubai1.png",
+        "assets/data/packages/asia/Majestic Holidays in Dubai 2025-26/dubai2.png",
+        "assets/data/packages/asia/Majestic Holidays in Dubai 2025-26/dubai3.png"
+    ],
+    "flight_details": "Cebu Pacific 5J14 MNL\u2013DXB 02:20PM\u201308:40PM / 5J15 DXB\u2013MNL 10:10PM\u201310:35AM",
+    "contact": "Globe: 09568190919 (Ms. Flordelyn), 09568772056 (Ms. Raquelyn), 09671379745 (Ms. Mikka), 09202511738 (Mr. Mark), 09563745849 (Ms. Jaja), 09612017599 (Ms. Chelsea) | Smart: 09619292350 (Mr. Enoch), 09396163155 (Mr. JC) | Landline: 02-72760923, 02-8524 3835, 02-8425 2690 | Email: mitzytravelandtours@gmail.com | Facebook: Mitzy Travel and Tours",
+    "region": "asia",
+    "flyers": [
+        "assets/data/packages/asia/Majestic Dubai/Flyer_1769576358.png",
+        "assets/data/packages/asia/Majestic Dubai/Flyer_1769576384.png"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Tokyo Japan Experience 2026",
+    "folder": "",
+    "details": "<p>Highlights: Asakusa Sensoji Temple, Nakamise Street, Tokyo Skytree (photo stop), Shibuya Crossing, Hachiko Statue, Mt. Fuji View Spot, Oishi Park at Lake Kawaguchi, Oshino Hakkai, Odaiba (Gundam, Liberty Statue, Rainbow Bridge), and Gotemba Premium Outlet. A perfectly balanced Tokyo city and Mt. Fuji countryside adventure.</p>",
+    "duration": "5 Days / 4 Nights",
+    "low": "\u20b159,888 / person (All-in with Airfare)",
+    "flyer": "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/Flyer_tokyo_2026.png",
+    "travel_dates": [
+        "\ud83c\udf38 <span style='color:#e06da9;'>FEB 11 \u2013 15, 2026</span>",
+        "\ud83c\udf38 <span style='color:#e06da9;'>MAR 17 \u2013 21, 2026</span>",
+        "\ud83c\udf38 <span style='color:#e06da9;'>APR 14 \u2013 18, 2026</span>",
+        "\ud83c\udf38 <span style='color:#e06da9;'>APR 29 \u2013 MAY 03, 2026</span>",
+        "\ud83c\udf3b <span style='color:#3ba76a;'>MAY 20 \u2013 24, 2026</span>",
+        "\ud83c\udf41 <span style='color:#d47f3d;'>OCT 01 \u2013 05, 2026</span>"
+    ],
+    "itinerary": [
+        {
+            "day_title": "Day 1: Manila \u2708 Narita \u2013 Tokyo (D)",
+            "day_details": "Departure from Manila via Cebu Pacific flight 5J-5054 (MNL\u2013NRT 06:10AM\u201311:35AM). Arrival at Narita Airport, meet and greet with tour guide. Transfer to Tokyo (approx. 1 hr 40 mins). Hotel check-in (from 3:00 PM). Free time."
+        },
+        {
+            "day_title": "Day 2: Tokyo City Tour (B/L/D)",
+            "day_details": "Visit Asakusa Sensoji Temple and Nakamise Street. Photo stop at Tokyo Skytree. Visit Shibuya Crossing and Hachiko Statue. Continue to Odaiba (Gundam Statue, Liberty Statue, Rainbow Bridge). Return to hotel.",
+            "day_image": "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/Day2_1770016526.png"
+        },
+        {
+            "day_title": "Day 3: Tokyo \u2013 Mt. Fuji \u2013 Tokyo (B/L/D)",
+            "day_details": "Hotel check-out and transfer to Mt. Fuji area (approx. 3 hrs). Visit Oishi Park in Lake Kawaguchi (Mt. Fuji view spot) and Oshino Hakkai. Shopping stop at Gotemba Premium Outlet. Transfer back to Tokyo (approx. 3 hrs).",
+            "day_image": "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/Day3_1770016529.png"
+        },
+        {
+            "day_title": "Day 4: Tokyo Free Time (B)",
+            "day_details": "Free time for leisure and shopping. Optional tour: Tokyo Disneyland or DisneySea (own expense).",
+            "day_image": "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/Day4_1770016531.png"
+        },
+        {
+            "day_title": "Day 5: Tokyo \u2708 Manila (B)",
+            "day_details": "Hotel check-out. Free time until transfer to Narita Airport (approx. 1 hr 40 mins). Departure back to Manila via Cebu Pacific flight 5J-5058 (NRT\u2013MNL 07:25PM\u201311:35PM). Home sweet home!"
+        }
+    ],
+    "inclusions": [
+        "Roundtrip airfare via Cebu Pacific",
+        "7 kg hand-carry luggage allowance",
+        "4 nights hotel accommodation in Tokyo",
+        "Tours as per itinerary",
+        "Meals as per itinerary",
+        "English-speaking tour guide during tours and transfers",
+        "Private coach airport to hotel transfers"
+    ],
+    "exclusions": [
+        "Philippine Travel Tax: \u20b11,620",
+        "Tipping for guide and driver: \u20b11,160",
+        "Japan visa processing fee",
+        "Check-in baggage",
+        "Travel insurance"
+    ],
+    "extra_details": [
+        "<strong>Single Supplement:</strong> \u20b126,500",
+        "<strong>Child with Bed (7 y/o & above):</strong> Same as adult rate",
+        "<strong>Child No Bed (2\u20136 y/o):</strong> \u20b142,888",
+        "<strong>Mode of Payment:</strong> \u20b115,000 per person down payment. Remaining balance payable 45 days before departure.",
+        "All terms and conditions apply."
+    ],
+    "images": [
+        "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/tokyoexp_1770016255.png",
+        "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/tokyo3_1770016539.png",
+        "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/tokyo2_1770016539.png",
+        "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/tokyo1_1770016539.png"
+    ],
+    "flight_details": "Cebu Pacific \u2013 5J-5054 MNL\u2013NRT 06:10AM\u201311:35AM / 5J-5058 NRT\u2013MNL 07:25PM\u201311:35PM",
+    "contact": "Globe: 09568190919 (Ms. Flordelyn), 09568772056 (Ms. Raquelyn), 09671379745 (Ms. Mikka), 09202511738 (Mr. Mark), 09612017599 (Ms. Chelsea), 09178825004 (Mr. Jun) | Smart: 09396163155 (Mr. JC), 09995011721 (Ms. Crishaya) | Landline: 02-72760923, 02-8524 3835, 02-8425 2690",
+    "flyers": [
+        "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/Flyer_1770016243.png",
+        "assets/data/packages/korea_japan/Tokyo Japan Experience 2026/Flyer_1770016244.png"
+    ],
+    "region": "korea_japan"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "The Best of Singapore and Malaysia Experience",
+    "folder": "",
+    "details": "<p>Discover the vibrant cities of Singapore and Kuala Lumpur in this best-selling twin-city package. Enjoy iconic landmarks, Universal Studios Singapore, cultural tours, and seamless transfers while experiencing the rich blend of modern and traditional attractions.</p>",
+    "duration": "5 Days / 4 Nights",
+    "low": "\u20b133,888 All-in w/ Airfare",
+    "flyer": "assets/data/packages/asia/The Best of Singapore and Malaysia Experience/Flyer_1769999061.png",
+    "travel_dates": [
+        "April 04\u201308, 2026 (+\u20b11,000)",
+        "April 05\u201309, 2026 (+\u20b11,000)",
+        "April 08\u201312, 2026 (+\u20b11,000)",
+        "April 15\u201319, 2026 (+\u20b11,000)",
+        "April 24\u201328, 2026",
+        "April 29\u2013May 03, 2026 (+\u20b12,000)",
+        "May 07\u201311, 2026 (+\u20b11,000)",
+        "May 13\u201317, 2026 (+\u20b11,000)",
+        "May 20\u201324, 2026 (+\u20b11,000)",
+        "May 27\u201331, 2026",
+        "June 10\u201314, 2026 (+\u20b11,000)",
+        "June 11\u201315, 2026 (+\u20b11,000)",
+        "June 25\u201329, 2026",
+        "June 27\u2013July 01, 2026",
+        "July 08\u201312, 2026",
+        "July 22\u201326, 2026",
+        "July 30\u2013August 03, 2026",
+        "August 19\u201323, 2026 (+\u20b11,000)",
+        "August 26\u201330, 2026 (+\u20b11,000)",
+        "September 09\u201313, 2026",
+        "September 10\u201314, 2026",
+        "September 16\u201320, 2026",
+        "September 23\u201327, 2026",
+        "October 01\u201305, 2026",
+        "October 14\u201318, 2026",
+        "October 22\u201326, 2026",
+        "October 31\u2013November 04, 2026 (+\u20b11,000)",
+        "November 01\u201305, 2026 (+\u20b11,000)",
+        "November 04\u201308, 2026",
+        "November 11\u201315, 2026",
+        "November 18\u201322, 2026",
+        "November 29\u2013December 03, 2026",
+        "November 30\u2013December 04, 2026",
+        "December 02\u201306, 2026",
+        "December 09\u201313, 2026",
+        "December 10\u201314, 2026"
+    ],
+    "itinerary": [
+        {
+            "day_title": "Day 01: Manila \u2013 Singapore (X/X/X)",
+            "day_details": "Arrival in Singapore. Receive SGD 8 lunch voucher. Proceed to Singapore City Tour including Merlion Park, Parliament House, Esplanade, Padang, Supreme Court, National Gallery, Suntec Fountain, Chinatown, Hock Kang Temple, Mount Faber, and Gardens by the Bay (photo stop). Visit souvenir and chocolate shop. Hotel check-in. Optional tour: Spectra Light & Water Show at Marina Bay Sands.",
+            "day_image": "assets/data/packages/asia/5D/3N The Best of Singapore & Malaysia Experience 2026/Day1_1764729301.png"
+        },
+        {
+            "day_title": "Day 02: Singapore (B/X/X)",
+            "day_details": "Breakfast at hotel. Transfer to Universal Studios Singapore. Enjoy full-day access to rides and attractions. Transfer back to hotel.",
+            "day_image": "assets/data/packages/asia/5D/3N The Best of Singapore & Malaysia Experience 2026/Day2_1764729277.png"
+        },
+        {
+            "day_title": "Day 03: Singapore \u2013 Kuala Lumpur (B/X/X)",
+            "day_details": "Breakfast. Transfer from Singapore to Kuala Lumpur via SIC coach. Hotel check-in and free time for leisure.",
+            "day_image": ""
+        },
+        {
+            "day_title": "Day 04: Kuala Lumpur (B/X/X)",
+            "day_details": "Breakfast and free time. Hotel check-out. Afternoon Kuala Lumpur City Tour including King\u2019s Palace, Independence Square, National Monument (drive-by), old railway station, Petronas Twin Towers (photo stop), and chocolate factory. Transfer to airport.",
+            "day_image": "assets/data/packages/asia/5D/3N The Best of Singapore & Malaysia Experience 2026/Day4_1764729286.png"
+        },
+        {
+            "day_title": "Day 05: Kuala Lumpur \u2013 Manila",
+            "day_details": "Arrival in Manila. End of tour.",
+            "day_image": ""
+        }
+    ],
+    "inclusions": [
+        "Roundtrip airfare via Cebu Pacific",
+        "7kg hand carry baggage",
+        "2 nights hotel accommodation in Singapore",
+        "1 night hotel accommodation in Kuala Lumpur",
+        "Daily hotel breakfast",
+        "Airport transfers",
+        "Singapore city tour",
+        "Universal Studios Singapore (ride-all) with transfers",
+        "Kuala Lumpur city tour",
+        "One-way SIC coach transfer (Singapore to Kuala Lumpur)",
+        "English-speaking tour guide",
+        "Tipping for driver and guide",
+        "Malaysia tourism tax",
+        "Free lunch coupon (SGD 8)"
+    ],
+    "exclusions": [
+        "PH travel tax (\u20b11,620)",
+        "Check-in baggage",
+        "Travel insurance"
+    ],
+    "extra_details": [
+        "<strong>Mode of Payment:</strong> \u20b110,000 initial down payment; full payment 45 days before travel period.",
+        "All terms and conditions apply."
+    ],
+    "images": [
+        "assets/data/packages/asia/The Best of Singapore and Malaysia Experience/singapore_1774320505.jpg",
+        "assets/data/packages/asia/5D/3N The Best of Singapore & Malaysia Experience 2026/sinmal1_1764729226.png",
+        "assets/data/packages/asia/5D/3N The Best of Singapore & Malaysia Experience 2026/sinmal2_1764729249.png",
+        "assets/data/packages/asia/5D/3N The Best of Singapore & Malaysia Experience 2026/sinmal3_1764729262.png"
+    ],
+    "flight_details": "Cebu Pacific \u2013 5J813 MNL\u2013SIN 05:40\u201309:25 / 5J502 KUL\u2013MNL 01:35\u201305:45",
+    "contact": "",
+    "flyers": [
+        "assets/data/packages/asia/The Best of Singapore and Malaysia Experience/Flyer_1769999061.png",
+        "assets/data/packages/asia/The Best of Singapore and Malaysia Experience/Flyer_1769999064.png"
+    ],
+    "region": "asia"
+}

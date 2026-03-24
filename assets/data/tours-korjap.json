@@ -1,0 +1,58 @@
+[
+    {
+        "id": "autumnkorea",
+        "title": "\ud835\udff2\ud835\uddd7/\ud835\udff0\ud835\udde1 \ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\uddd5\ud835\uddd8\ud835\udde6\ud835\udde7 \ud835\udde2\ud835\uddd9 \ud835\uddd4\ud835\udde8\ud835\udde7\ud835\udde8\ud835\udde0\ud835\udde1 \ud835\udddc\ud835\udde1 \ud835\uddde\ud835\udde2\ud835\udde5\ud835\uddd8\ud835\uddd4 \ud83c\udf41\ud83c\udf41\ud83c\udf41",
+        "subtitle": "<p>6D 4N \ud835\uddea\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\udddb\ud835\uddee\ud835\uddfb\ud835\uddf2\ud835\uddfc\ud835\ude02\ud835\uddf9 \ud835\udde3\ud835\uddee\ud835\uddff\ud835\uddf8 \ud835\uddd4\ud835\ude02\ud835\ude01\ud835\ude02\ud835\uddfa\ud835\uddfb \ud835\udde6\ud835\uddf0\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddff\ud835\ude06 &amp; \ud835\udde6\ud835\uddf2\ud835\uddfc\ud835\ude02\ud835\uddf9 \ud835\uddd9\ud835\uddfc\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\ude01</p>",
+        "image": "assets/data/packages/korea_japan/autumnkorea/thumbnail.jpg",
+        "link": "tourinfo.php?id=B.autumnkorea",
+        "location": "Korea, Asia"
+    },
+    {
+        "id": "osaka2026",
+        "title": "Best of Osaka Experience",
+        "subtitle": "<p>5D/4N with Kyoto, Nara &amp; Rinku Outlet</p>",
+        "image": "assets/data/packages/korea_japan/Best of Osaka Experience/thumbnail.png",
+        "link": "tourinfo.php?id=B.osaka2026",
+        "location": "Japan, Asia, Osaka, Kyoto, Nara"
+    },
+    {
+        "id": "tokyo2026",
+        "title": "Tokyo Japan Experience",
+        "subtitle": "<p>5D/4N with City Tour &amp; Mt. Fuji Tour</p>",
+        "image": "assets/data/packages/korea_japan/Tokyo Japan Experience/thumbnail.png",
+        "link": "tourinfo.php?id=B.tokyo2026",
+        "location": "Tokyo, Japan, Asia"
+    },
+    {
+        "id": "korea_cherry",
+        "title": "Cherry Blossoms & Spring Holidays in Korea 2026",
+        "subtitle": "<p>Highlights: Seokchon Lake, Making Chicken Experience, Youido Cherry Blossoms Park, Eunpyeong Hanok Village</p>",
+        "image": "assets/data/packages/korea_japan/korea_cherry/thumbnail.png",
+        "link": "tourinfo.php?id=B.korea_cherry",
+        "location": "Seoul, Korea, South Korea"
+    },
+    {
+        "id": "hokkaido",
+        "title": "Holidays in Hokkaido",
+        "subtitle": "<p>7D 6N Snow Festival 2026</p>",
+        "image": "assets/data/packages/korea_japan/hokkaido/thumbnail.png",
+        "link": "tourinfo.php?id=B.hokkaido",
+        "location": "Hokkaido, Japan"
+    },
+    {
+        "id": "koreawinter",
+        "title": "Best of Seoul Korea Winter Experience",
+        "subtitle": "<p>6D 4N with ski resort</p>",
+        "image": "assets/data/packages/korea_japan/Best of Seoul Korea Winter Experience/thumbnail.png",
+        "link": "tourinfo.php?id=B.koreawinter",
+        "location": "Korea, Seoul"
+    },
+    {
+        "id": "SGB",
+        "title": "The Best of Seoul, Gangwon & Busan Experience 2026",
+        "subtitle": "<p>6D /5N with City tours &amp; </p>",
+        "image": "assets/data/packages/korea_japan/SGB/thumbnail.jpg",
+        "link": "tourinfo.php?id=B.SGB",
+        "location": ""
+    }
+]

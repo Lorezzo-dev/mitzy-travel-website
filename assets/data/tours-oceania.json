@@ -1,0 +1,26 @@
+[
+    {
+        "id": "newzealand-breathtaking",
+        "title": "Breathtaking Holidays in New Zealand",
+        "subtitle": "<p>12D 11N Auckland, Waitomo, Christ Church, Mt Cook, Lake Tekapo, Queenstown, Milford Sound with Overnight at Lake Tekapo &amp; Visit the famous hobbiton set</p>",
+        "image": "assets/data/packages/oceania/newzealand-breathtaking/thumbnail.png",
+        "link": "tourinfo.php?id=D.newzealand",
+        "location": "New Zealand, Auckland, Oceania"
+    },
+    {
+        "id": "australia-autumn",
+        "title": "10D9N Autumn Holiday in Australia 2026",
+        "subtitle": "<p>10D 9N Autumn Holiday, Sydney, Canberra, Melbourne</p>",
+        "image": "assets/data/packages/oceania/australia-autumn/thumbnail.png",
+        "link": "tourinfo.php?id=D.autumn_australia",
+        "location": "Australia, Oceania, Sydney, Canberra, Melbourne"
+    },
+    {
+        "id": "winteraustralia2026",
+        "title": "The Best of Sydney, Canberra and Melbourne Australia Experience Winter Season",
+        "subtitle": "<p>10D/8N  with City Tours, Adventure Tours,Ski Resort visit with Mt. Buller</p>",
+        "image": "assets/data/packages/oceania/winteraustralia2026/thumbnail.png",
+        "link": "tourinfo.php?id=D.winteraustralia2026",
+        "location": "Australia, Canberra, Melbourne, Oceania"
+    }
+]

@@ -1,0 +1,327 @@
+/* ============================================================
+   ADMIN DASHBOARD SCOPE
+   Everything is inside .admin-dashboard EXCEPT QUILL
+   ============================================================ */
+
+.admin-dashboard {
+  background: #fff;
+  font-family: Arial, sans-serif;
+}
+
+/* -----------------------------
+   WRAPPERS
+------------------------------ */
+.admin-dashboard .admin-wrap {
+  max-width: 1300px;
+  margin: 25px auto;
+  padding: 20px;
+}
+
+/* -----------------------------
+   BUTTONS
+------------------------------ */
+.admin-dashboard .btn {
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.admin-dashboard .btn.save {
+  background: var(--pink-dark2);
+  color: #fff;
+}
+.admin-dashboard .btn.save:hover { background: var(--pink-medium); }
+
+.admin-dashboard .btn.cancel {
+  background: white;
+  border: 1px solid #ccc;
+}
+.admin-dashboard .btn.cancel:hover { background: #f9f9f9; }
+
+.admin-dashboard .btn.back {
+  background: #fff2f8;
+  border: 1px solid var(--pink-dark2);
+  color: var(--pink-dark2);
+}
+.admin-dashboard .btn.back:hover {
+  background: var(--pink-dark2);
+  color: white;
+}
+
+.admin-dashboard .btn.edit {
+  background: var(--pink-dark2);
+  color: white;
+}
+.admin-dashboard .btn.edit:hover { background: var(--pink-medium); }
+
+.admin-dashboard .btn.delete,
+.admin-dashboard .btn.delete.danger {
+  background: #ff4d4d;
+  color: #fff;
+}
+.admin-dashboard .btn.delete:hover { background: #e63939; }
+
+/* -----------------------------
+   ADMIN TOOLBAR
+------------------------------ */
+.admin-dashboard .admin-toolbar {
+  position: sticky;
+  top: 10px;
+  z-index: 99;
+  display: flex;
+  gap: 10px;
+  padding: 12px;
+  background: #fff;
+  border: 1px solid #f1dce5;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+/* -----------------------------
+   EDITABLE FIELDS
+------------------------------ */
+.admin-dashboard .editable {
+  outline: 2px dashed rgba(255, 105, 180, 0.3);
+  padding: 4px;
+  border-radius: 6px;
+}
+
+.admin-dashboard input[type="text"],
+.admin-dashboard textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+/* -----------------------------
+   TEXT HELPERS
+------------------------------ */
+.admin-dashboard .small-muted {
+  color: #666;
+  font-size: 13px;
+}
+
+.admin-dashboard .flex-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.admin-dashboard .info-section {
+  margin-bottom: 20px;
+}
+
+/* -----------------------------
+   GALLERY
+------------------------------ */
+
+.admin-dashboard .gallery-row {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.admin-dashboard .thumb-edit {
+  width: 130px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.admin-dashboard #mainImage {
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid #eee;
+}
+
+/* -----------------------------
+   ITINERARY
+------------------------------ */
+.admin-dashboard .itinerary-card {
+  border: 1px solid #e6cfe0;
+  border-radius: 10px;
+  padding: 12px;
+  margin-bottom: 12px;
+  background: white;
+}
+
+.admin-dashboard .itin-image-preview {
+  width: 160px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-top: 8px;
+}
+
+.admin-dashboard .hidden-file {
+  display: none;
+}
+
+/* -----------------------------
+   TOUR CARDS (admin_tours.php)
+------------------------------ */
+
+.admin-dashboard .cards-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.admin-dashboard .admin-tour-card {
+  width: 200px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+}
+
+.admin-dashboard .admin-tour-card img {
+  width: 100%;
+  height: 160px;
+  object-fit: contain;
+  display: block;
+}
+
+.admin-dashboard .card-body {
+  padding: 10px;
+}
+
+.admin-dashboard .card-controls {
+  display: flex;
+  gap: 6px;
+  padding: 10px;
+  justify-content: flex-end;
+}
+
+/* -----------------------------
+   TABS
+------------------------------ */
+
+.admin-dashboard .tab-btn {
+  padding: 8px 12px;
+  margin-right: 8px;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  cursor: pointer;
+}
+
+.admin-dashboard .tab-btn.active {
+  background: var(--pink-dark2);
+  color: #fff;
+  border-color: var(--pink-dark2);
+}
+
+/* -----------------------------
+   MODALS
+------------------------------ */
+
+.admin-dashboard .modal-center {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0,0,0,0.45);
+  z-index: 9999;
+  padding: 12px;
+}
+
+.admin-dashboard .modal-center.active {
+  display: flex !important;
+  animation: modal-fade-in 160ms ease;
+}
+
+@keyframes modal-fade-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.admin-dashboard .modal-content {
+  background: #fff;
+  border-radius: 10px;
+  padding: 18px;
+  max-height: 90vh;
+  overflow-y: auto;
+  width: 100%;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+  max-width: 720px;
+}
+
+.admin-dashboard .modal-center.modal-small .modal-content {
+  max-width: 560px;
+}
+
+@media (max-width: 640px) {
+  .admin-dashboard .modal-content {
+    padding: 14px;
+    width: 100%;
+    max-width: 98%;
+    border-radius: 8px;
+  }
+  .admin-dashboard .modal-center {
+    padding: 8px;
+  }
+}
+
+/* -----------------------------
+   IMAGE PREVIEW (edit modal)
+------------------------------ */
+
+.admin-dashboard .img-preview {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #eee;
+  background: #fafafa;
+}
+
+/* -----------------------------
+   FORM ROWS
+------------------------------ */
+
+.admin-dashboard .form-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.admin-dashboard .form-row input {
+  flex: 1;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.admin-dashboard .note-small {
+  font-size: 13px;
+  color: #666;
+}
+
+/* -----------------------------
+   REGION PANELS
+------------------------------ */
+
+.admin-dashboard .region-panel {
+  margin-bottom: 28px;
+}
+
+.admin-dashboard .region-panel h2 {
+  margin-bottom: 4px;
+}
+
+/* ============================================================
+   END OF ADMIN DASHBOARD
+   ============================================================ */
