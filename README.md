@@ -1,6 +1,6 @@
 # Mitzy Travel and Tours Website
 
-Live site: https://yourdomain.com
+Live site: mitzytravelandtours.com
 
 A travel agency website with a CMS for managing tours.
 Built with PHP, JSON, and custom admin panel.
