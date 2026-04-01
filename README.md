@@ -19,6 +19,12 @@ Built with PHP, JSON, and custom admin panel.
 4. Open in browser:
    http://localhost/your-folder
 
+## 🔐 Admin Access (Local)
+- Email: admin@example.com  
+- Password: admin123  
+> Admin routes are not exposed in the main navigation and are intended for internal use.
+> Access paths may vary depending on local setup.
+
 ## ⚠️ Notes
 
 - The live version is deployed on a hosted server (Hostinger)
